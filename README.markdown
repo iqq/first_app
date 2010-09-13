@@ -1,5 +1,5 @@
 # Ruby on Rails Tutorial: first application
-作者：陈强
+
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) 
-by [Michael Hartl](http://michaelhartl.com/).
+by [Michael Hartl](http://michaelhartl.com/).浣滆�咃細闄堝己
 
