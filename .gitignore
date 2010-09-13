@@ -10,4 +10,5 @@ doc/api
 doc/app
 *.swp
 *~
-
+*.back
+*.bak
